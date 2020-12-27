@@ -1,0 +1,6 @@
+val1 = input("First Value: ")
+val2 = input("Second Value: ")
+val3 = input("Third Value: ")
+val4 = input("Fourth Value: ")
+val5 = input("Fifth Value: ")
+print(f' value1: {val1}, type: {type(val1)} \n value2: {val2}, type: {type(val2)} \n value3: {val3}, type: {type(val3)} \n value4: {val4}, type: {type(val4)} \n value5: {val5}, type: {type(val5)}')
